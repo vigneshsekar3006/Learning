@@ -1,0 +1,12 @@
+<h1><em>hello</em></h1>
+<h2> this is para 2</h2>
+<p>this a paragraph</p>
+<a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default" title="w3school" target="_blank">click here</a>
+<p class="check">hii !! HOW ARE YOU</P>
+Name:<input type="text" disabled="disabled">
+&gt;
+&lt;
+&amp;
+&quot;
+<meta charset="utf-8">
+<meta name="vignesh" content="from rajalakshmi engineering college">
