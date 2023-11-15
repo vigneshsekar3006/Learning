@@ -1,0 +1,13 @@
+get command
+git clone 
+--git add .
+--git add file name
+--git stash 
+--git stash pop
+--git commit -m "who done"
+--git pull
+--git push
+--git rm file name
+--git status
+mkdir folder name 
+type nul > day2.text
