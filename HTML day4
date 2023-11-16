@@ -1,0 +1,33 @@
+<table border=100>
+<th>table one</th>
+<td>table one </td>
+</table>
+<table border=1>
+<tr>
+<td>hello</td>
+</tr>
+<tr>
+<td>hello 1</td>
+</tr>
+</table>
+<table border=1>
+<tr>
+<td>10th<ensp></td>
+<td>12th</td>
+	<tr>
+    <td>english - 84</td>
+    <td>english - 67</td>
+    </tr>
+    <table border=1>
+    <tr>
+    <td>UG</td>
+    </tr>
+    </table>
+</table>
+<select id="course" name="course" size=1 multiple>
+<option value="java" >java</option>
+<option value="c++">c++</option>
+</select>
+<label class="container">java
+<input type="checkbox" id="j">
+</label>
